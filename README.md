@@ -1,5 +1,5 @@
 # TFM-MUIA-2024
-- Trabajo Fin de Máster
+- Trabajo de Fin de Máster
 - Máster Universitario en Inteligencia Artificial (MUIA)
 - Título: Reconocimiento de Emociones a Partir de Voz mediante Shallow ANN
 - Fecha: Julio- 2024
